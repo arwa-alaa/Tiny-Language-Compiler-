@@ -1,0 +1,67 @@
+D:\pdfs\compiler\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.csproj.AssemblyReference.cache
+D:\pdfs\compiler\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.Form1.resources
+D:\pdfs\compiler\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.Form2.resources
+D:\pdfs\compiler\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.csproj.GenerateResource.cache
+D:\pdfs\compiler\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.AssemblyInfoInputs.cache
+D:\pdfs\compiler\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.AssemblyInfo.cs
+D:\pdfs\compiler\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.csproj.CoreCompileInputs.cache
+D:\pdfs\compiler\Tiny_compiler\Tiny_compiler\bin\Debug\netcoreapp3.1\Tiny_compiler.exe
+D:\pdfs\compiler\Tiny_compiler\Tiny_compiler\bin\Debug\netcoreapp3.1\Tiny_compiler.deps.json
+D:\pdfs\compiler\Tiny_compiler\Tiny_compiler\bin\Debug\netcoreapp3.1\Tiny_compiler.runtimeconfig.json
+D:\pdfs\compiler\Tiny_compiler\Tiny_compiler\bin\Debug\netcoreapp3.1\Tiny_compiler.runtimeconfig.dev.json
+D:\pdfs\compiler\Tiny_compiler\Tiny_compiler\bin\Debug\netcoreapp3.1\Tiny_compiler.dll
+D:\pdfs\compiler\Tiny_compiler\Tiny_compiler\bin\Debug\netcoreapp3.1\Tiny_compiler.pdb
+D:\pdfs\compiler\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.dll
+D:\pdfs\compiler\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.pdb
+D:\pdfs\compiler\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.genruntimeconfig.cache
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\Tasleem\Tiny_compiler\Tiny_compiler\bin\Debug\netcoreapp3.1\Tiny_compiler.exe
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\Tasleem\Tiny_compiler\Tiny_compiler\bin\Debug\netcoreapp3.1\Tiny_compiler.deps.json
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\Tasleem\Tiny_compiler\Tiny_compiler\bin\Debug\netcoreapp3.1\Tiny_compiler.runtimeconfig.json
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\Tasleem\Tiny_compiler\Tiny_compiler\bin\Debug\netcoreapp3.1\Tiny_compiler.runtimeconfig.dev.json
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\Tasleem\Tiny_compiler\Tiny_compiler\bin\Debug\netcoreapp3.1\Tiny_compiler.dll
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\Tasleem\Tiny_compiler\Tiny_compiler\bin\Debug\netcoreapp3.1\Tiny_compiler.pdb
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\Tasleem\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.csproj.AssemblyReference.cache
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\Tasleem\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.Form1.resources
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\Tasleem\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.Form2.resources
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\Tasleem\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.csproj.GenerateResource.cache
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\Tasleem\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\Tasleem\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.AssemblyInfoInputs.cache
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\Tasleem\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.AssemblyInfo.cs
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\Tasleem\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.csproj.CoreCompileInputs.cache
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\Tasleem\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.dll
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\Tasleem\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.pdb
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\Tasleem\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.genruntimeconfig.cache
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\1st Milestone\5 - TINY Scanner\Tiny_compiler\Tiny_compiler\bin\Debug\netcoreapp3.1\Tiny_compiler.exe
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\1st Milestone\5 - TINY Scanner\Tiny_compiler\Tiny_compiler\bin\Debug\netcoreapp3.1\Tiny_compiler.deps.json
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\1st Milestone\5 - TINY Scanner\Tiny_compiler\Tiny_compiler\bin\Debug\netcoreapp3.1\Tiny_compiler.runtimeconfig.json
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\1st Milestone\5 - TINY Scanner\Tiny_compiler\Tiny_compiler\bin\Debug\netcoreapp3.1\Tiny_compiler.runtimeconfig.dev.json
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\1st Milestone\5 - TINY Scanner\Tiny_compiler\Tiny_compiler\bin\Debug\netcoreapp3.1\Tiny_compiler.dll
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\1st Milestone\5 - TINY Scanner\Tiny_compiler\Tiny_compiler\bin\Debug\netcoreapp3.1\Tiny_compiler.pdb
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\1st Milestone\5 - TINY Scanner\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.csproj.AssemblyReference.cache
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\1st Milestone\5 - TINY Scanner\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.Form1.resources
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\1st Milestone\5 - TINY Scanner\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.Form2.resources
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\1st Milestone\5 - TINY Scanner\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.csproj.GenerateResource.cache
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\1st Milestone\5 - TINY Scanner\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\1st Milestone\5 - TINY Scanner\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.AssemblyInfoInputs.cache
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\1st Milestone\5 - TINY Scanner\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.AssemblyInfo.cs
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\1st Milestone\5 - TINY Scanner\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.csproj.CoreCompileInputs.cache
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\1st Milestone\5 - TINY Scanner\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.dll
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\1st Milestone\5 - TINY Scanner\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.pdb
+C:\Huda\FCIS\3rd Year\1st Term\Compiler\Project\1st Milestone\5 - TINY Scanner\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.genruntimeconfig.cache
+E:\5th Term\Compiler\project\CODES\Tiny_compiler\Tiny_compiler\bin\Debug\netcoreapp3.1\Tiny_compiler.exe
+E:\5th Term\Compiler\project\CODES\Tiny_compiler\Tiny_compiler\bin\Debug\netcoreapp3.1\Tiny_compiler.deps.json
+E:\5th Term\Compiler\project\CODES\Tiny_compiler\Tiny_compiler\bin\Debug\netcoreapp3.1\Tiny_compiler.runtimeconfig.json
+E:\5th Term\Compiler\project\CODES\Tiny_compiler\Tiny_compiler\bin\Debug\netcoreapp3.1\Tiny_compiler.runtimeconfig.dev.json
+E:\5th Term\Compiler\project\CODES\Tiny_compiler\Tiny_compiler\bin\Debug\netcoreapp3.1\Tiny_compiler.dll
+E:\5th Term\Compiler\project\CODES\Tiny_compiler\Tiny_compiler\bin\Debug\netcoreapp3.1\Tiny_compiler.pdb
+E:\5th Term\Compiler\project\CODES\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.Form1.resources
+E:\5th Term\Compiler\project\CODES\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.Form2.resources
+E:\5th Term\Compiler\project\CODES\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.csproj.GenerateResource.cache
+E:\5th Term\Compiler\project\CODES\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.AssemblyInfoInputs.cache
+E:\5th Term\Compiler\project\CODES\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.AssemblyInfo.cs
+E:\5th Term\Compiler\project\CODES\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.csproj.CoreCompileInputs.cache
+E:\5th Term\Compiler\project\CODES\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.dll
+E:\5th Term\Compiler\project\CODES\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.pdb
+E:\5th Term\Compiler\project\CODES\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.genruntimeconfig.cache
+E:\5th Term\Compiler\project\CODES\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.csproj.AssemblyReference.cache
+E:\5th Term\Compiler\project\CODES\Tiny_compiler\Tiny_compiler\obj\Debug\netcoreapp3.1\Tiny_compiler.GeneratedMSBuildEditorConfig.editorconfig
